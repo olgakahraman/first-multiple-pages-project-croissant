@@ -1,0 +1,36 @@
+:root {
+  --first-color: #42b883;
+  --second-color: #ff7e67;
+  --third-color: #35495e;
+  --fourth-color: #cbf078;
+}
+
+body {
+  margin-top: 70px;
+  background: var(--third-color);
+}
+.container {
+  text-align: center;
+  font-family: monospace;
+}
+h1 {
+  font-size: 46px;
+  color: var(--first-color);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  font-size: 24px;
+  color: var(--second-color);
+}
+a {
+  color: var(--first-color);
+  text-decoration: none;
+  font-size: 20px;
+  color: var(--fourth-color);
+  font-family: "Times New Roman", Times, serif;
+}
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: var(--first-color);
+}
