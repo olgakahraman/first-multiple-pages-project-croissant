@@ -7,7 +7,7 @@
 
 body {
   margin-top: 70px;
-  background: white;
+  background: var(--third-color);
 }
 .container {
   text-align: center;
