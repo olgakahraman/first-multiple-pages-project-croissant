@@ -34,3 +34,7 @@ a:hover {
   cursor: pointer;
   color: var(--first-color);
 }
+footer a{
+    color:var(--first-color);
+    
+}
