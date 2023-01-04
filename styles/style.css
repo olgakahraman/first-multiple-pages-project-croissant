@@ -7,7 +7,7 @@
 
 body {
   margin-top: 70px;
-  background: var(--third-color);
+  background: white;
 }
 .container {
   text-align: center;
@@ -23,7 +23,7 @@ p {
   color: var(--second-color);
 }
 a {
-  color: var(--first-color);
+  
   text-decoration: none;
   font-size: 20px;
   color: var(--fourth-color);
